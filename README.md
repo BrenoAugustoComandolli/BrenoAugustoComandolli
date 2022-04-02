@@ -6,9 +6,12 @@
 - 📫 Contact me by email: brenoaugustocomandolli@gmail.com
 - ⚡ Fun fact: Always looking to innovate and simplify processes
 
-<div style="display: inline-block">
+<div>
     <a href="https://github.com/BrenoAugustoComandolli">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoAugustoComandolli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=2288dd&icon_color=2288dd&border_color=2288dd&locale=en">
+     
+ ##
+        
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAugustoComandolli&layout=compact&langs_count=10&theme=dracula&title_color=2288dd&border_color=2288dd&locale=en">
 </div>
 <div style="display: inline-block"><br>
