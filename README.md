@@ -11,8 +11,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoAugustoComandolli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=2288dd&icon_color=2288dd&border_color=2288dd&locale=en">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAugustoComandolli&layout=compact&langs_count=10&theme=dracula&title_color=2288dd&border_color=2288dd&locale=en">
 </div>
-<br>
-<div style="display: inline-block">
+<div style="display: inline-block"><br>
    <img style="text-align: center" alt="Breno-Js" height="40" width="30" src="https://icongr.am/devicon/javascript-original.svg?size=82&color=2288dd">
    <img style="text-align: center" alt="Breno-Node" height="40" width="30" src="https://icongr.am/devicon/nodejs-original.svg?size=82&color=2288dd">
    <img style="text-align: center" alt="Breno-React" height="40" width="30" src="https://icongr.am/devicon/react-original.svg?size=82&color=2288dd">
