@@ -1,6 +1,6 @@
 ### Hello! I'm Breno Augusto Comandolli 👋
 
-- 🔭 I am currently working as a Java developer and Flutter developer
+- 🔭 I am currently working as a Java developer and Flutter
 - 🌱 I'm studying Flutter
 - 👯 I'm doing personal projects focused on these technologies (Flutter)
 - 📫 Contact me by email: brenoaugustocomandolli@gmail.com
