@@ -5,11 +5,6 @@
 - 👯 I'm doing personal projects focused on these technologies (Python)
 - 📫 Contact me by email: brenoaugustocomandolli@gmail.com
 - ⚡ Fun fact: Always looking to innovate and simplify processes
-
-<div>
-    <a href="https://github.com/BrenoAugustoComandolli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoAugustoComandolli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=2288dd&icon_color=2288dd&border_color=2288dd&locale=en">
-<div>
      
  ##
     
