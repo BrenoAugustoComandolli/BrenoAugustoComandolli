@@ -1,8 +1,8 @@
 ### Hello! I'm Breno Augusto Comandolli 👋
 
-- 🔭 I am currently working as a Java developer and Flutter
-- 🌱 I'm studying Flutter
-- 👯 I'm doing personal projects focused on these technologies (Flutter)
+- 🔭 I am currently working as a Full Stack Developer with expertise in Java and Flutter
+- 🌱 I'm studying Python with Artificial intelligence
+- 👯 I'm doing personal projects focused on these technologies (Python)
 - 📫 Contact me by email: brenoaugustocomandolli@gmail.com
 - ⚡ Fun fact: Always looking to innovate and simplify processes
 
